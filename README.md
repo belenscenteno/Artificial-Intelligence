@@ -5,9 +5,16 @@ Asignatura: Inteligencia Artificial
 - Parte 1
   - Práctica 1
     - [Práctica 1A](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1A.Grupo10.ipynb)
+    - [Práctica 1B](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1B.Grupo10.ipynb)
+    - [Práctica 1C](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1C.Grupo10.ipynb)
   - [Práctica 2]
+    - [Recomendadores I](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P2/Practica%202.%20Recomendadores.%20Partes%201%20y%202.%20.ipynb)
+    - [Recomendadores II](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P2/Practica%202.%20Recomendadores%20colaborativos.%20Parte%203.ipynb)
 - Parte 2
   - [Práctica 1]
+    - [Práctica 1A](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20II/P1/P1_1.ipynb)
+    - [Práctica 1B](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20II/P1/P1_2.ipynb)
   - [Práctica 2]
-### Proyecto: [**Aplicación de intercambio de fotos entre nodos distribuidos**](https://github.com/martinfdezdg/PCon/tree/main/Laboratorio/Proyecto%20final)  
-Se trata de un híbrido entre arquitectura cliente-servidor y peer-to-peer en la que el intercambio de información se realiza directamente entre los propios clientes, y el servidor únicamente actúa proporcionando datos de qué hay disponible en el sistema y quiénes son los nodos propietarios.
+    - [Clustering](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20II/P2/P1_clustering.ipynb)
+    - [Clasificación](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20II/P2/P2_clasificacion.ipynb)
+    - [Regresión](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20II/P2/P3_regresion.ipynb)
