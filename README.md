@@ -15,9 +15,9 @@
 
 *Laboratory:*
   - Practice 1
-    - [Practice 1A](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1A.Grupo10.ipynb)
-    - [Practice 1B](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1B.Grupo10.ipynb)
-    - [Practice 1C](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1C.Grupo10.ipynb)
+    - [Práctica 1A](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1A.Grupo10.ipynb)
+    - [Práctica 1B](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1B.Grupo10.ipynb)
+    - [Práctica 1C](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1C.Grupo10.ipynb)
     
   - Practice 2
     - [Recomendadores I](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P2/Practica%202.%20Recomendadores.%20Partes%201%20y%202.%20.ipynb)
