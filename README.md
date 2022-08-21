@@ -1,7 +1,9 @@
-# IA
-Asignatura: Inteligencia Artificial
+# Artificial Intelligence
 
-## Prácticas de laboratorio
+*Subject:* Inteligencia Artificial
+
+*Year:* 2020-2021
+
 - Parte 1
   - Práctica 1
     - [Práctica 1A](https://github.com/martinfdezdg/Artificial-Intelligence/blob/main/Laboratorio/Parte%20I/P1/Practica1A.Grupo10.ipynb)
