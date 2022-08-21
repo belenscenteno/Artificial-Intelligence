@@ -10,8 +10,8 @@
 2. Problem solving and search Problem representation and state space Heuristic search algorithms. Local optimization algorithms. Genetic algorithms. Reinforcement Learning.
 3. Basic representation of knowledge and reasoning. Properties of knowledge representation Rule-based systems. Case based reasoning. Recommender systems.
 4. Knowledge representation and reasoning. Logic-based systems. Ontologies. Other methods for knowledge representation and reasoning.
-5. Machine learning. Supervised learning Unsupervised learning
-6. Natural language processing. Language models and its applications. Information retrieval. Grammar methods
+5. Machine learning. Supervised learning Unsupervised learning.
+6. Natural language processing. Language models and its applications. Information retrieval. Grammar methods.
 
 *Laboratory:*
   - Practice 1
